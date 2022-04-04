@@ -1,4 +1,4 @@
-I have founded basic knowledge concerning image processing based on Matlab and have invented a new improved canny algorithm based on OTSU’s algorithm. Although I’m new in this area, I’m extremely interested in medical imaging and I searched many papers about breast/brain tumor detection and noticed that lots of them are based on U-Net. So currently I’m building a U-Net and due to lack of dataset a
+
 
 <font face="宋体" color=black size=10>Unet笔记</font>
 [toc]
