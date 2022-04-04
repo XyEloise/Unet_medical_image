@@ -29,3 +29,10 @@ git checkout -b new_remote_branch origin/new_remote_branch
 git checkout -b new_remote_branch (set and change to new branch)
 git push origin local_new_remote_branch:remote_new_remote_branch (push local new branch to remote)
 
+## how to solve (master|REBASE 1/2)?
+use 'git rebase --abort'
+
+## how to solve (master|MERGING)?
+git reset --hard head # get back to origin version
+
+## it's import to get a backup in case git pull would cover local document and lost some data
